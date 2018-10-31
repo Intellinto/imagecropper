@@ -1,0 +1,7 @@
+{
+  "name": "imagecroppper",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
